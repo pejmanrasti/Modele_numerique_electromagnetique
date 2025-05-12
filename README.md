@@ -105,7 +105,7 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 
 ## 👨‍💻 Auteurs
 
-Ce projet a été réalisé par **Maël Le Cam** et **Timothée Laland**, étudiants en L2 PSI-CMi à l'Université d'Angers.
+Ce projet a été réalisé par ** Maël Le Cam ** et ** Timothée Laland **, étudiants en L2 PSI-CMi à l'Université d'Angers.
 
 ---
 
