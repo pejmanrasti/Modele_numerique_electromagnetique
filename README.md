@@ -1,5 +1,5 @@
-# ⚡ Electromagnetic Simulation Toolkit for Future Transport Systems  
-### “Modèle numérique électromagnétique pour les systèmes de transport du futur : Hyperloop et aéronefs électriques”
+# ⚡ Electromagnetic Simulation Toolkit 
+### “Modèle numérique électromagnétique”
 
 🚄✈️ *Explore the physics behind tomorrow's transportation using Python simulations!*
 
