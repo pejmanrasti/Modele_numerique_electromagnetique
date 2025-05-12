@@ -59,6 +59,8 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Étude de l’impact des paramètres physiques  
 **📌 Application :** Compréhension des capacités et interactions électrostatiques
 
+** [⚙️ Simuler maintenant](https://colab.research.google.com/drive/1RRHjhzfLZZJvkmKLjZz5HG7U7lBWxVXx?usp=sharing)
+
 ---
 
 ### 🧮 6. Potentiel Vecteur & Champ Magnétique  
