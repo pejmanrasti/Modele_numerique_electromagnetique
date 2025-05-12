@@ -19,6 +19,8 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Tests de matériaux et configurations pour maximiser la portance  
 **📌 Application :** Comprendre la dynamique de lévitation magnétique
 
+[**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1WvzObrkHvY5xI2cavq75UjvA3UtMbTDx?usp=sharing)
+
 ---
 
 ### ⚙️ 2. Systèmes de Propulsion Électromagnétique  
@@ -29,6 +31,7 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Comparaison de stratégies de propulsion  
 **📌 Application :** Optimisation des moteurs électromagnétiques
 
+[**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1_1_J9jtTpPuw7NTdf_Xow-J_lnNbhREA?usp=sharing)
 ---
 
 ### ♻️ 3. Optimisation de l’Efficacité Énergétique  
