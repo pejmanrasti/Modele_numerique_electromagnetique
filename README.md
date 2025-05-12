@@ -31,7 +31,7 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Comparaison de stratégies de propulsion  
 **📌 Application :** Optimisation des moteurs électromagnétiques
 
-[**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1_1_J9jtTpPuw7NTdf_Xow-J_lnNbhREA?usp=sharing)
+  [**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1_1_J9jtTpPuw7NTdf_Xow-J_lnNbhREA?usp=sharing)
 ---
 
 ### ♻️ 3. Optimisation de l’Efficacité Énergétique  
@@ -42,6 +42,8 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Optimisation par géométrie et matériaux  
 **📌 Application :** Conception de systèmes électromagnétiques plus efficaces
 
+  [**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1TqoHpL5u-U74WuWsd5KzQowYCKQ4tCnn?usp=sharing)
+
 ---
 
 ### 🔄 4. Analyse des Symétries de Champs  
@@ -51,6 +53,8 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Utilisation de superposition et réciprocité  
 - Automatisation via un script Python  
 **📌 Application :** Réduction de la complexité des calculs électromagnétiques
+
+  [**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1PId1JgweohkLo1KKm2jZl5IYNUgj3Mq_?usp=sharing)
 
 ---
 
@@ -83,6 +87,8 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Cas d’usage réaliste (ex. : propulsion Hyperloop)  
 - Validation via modèles théoriques ou données expérimentales  
 **📌 Application :** Vision intégrée des interactions électromagnétiques complexes
+
+  [**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1inKIXhESa0uirmrGPDMWYeuND3J-FfdF?usp=sharing)
 
 ---
 
