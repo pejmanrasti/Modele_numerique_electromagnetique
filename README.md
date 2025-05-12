@@ -78,6 +78,8 @@ L’avenir du transport est électrisant, avec des technologies révolutionnaire
 - Comparaison des approches analytiques et numériques  
 **📌 Application :** Approfondissement de la magnétostatique appliquée
 
+  [**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/1CS15zZx0BIDa7KxpMSzhdiGb430GSqB3?usp=sharing)
+
 ---
 
 ### 🧠 7. Synthétiseur de Concepts Électromagnétiques  
